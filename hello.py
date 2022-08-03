@@ -1,0 +1,1 @@
+print("shri ramswaroop memorial university deva road barabanki")
