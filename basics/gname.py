@@ -1,0 +1,11 @@
+from turtle import*
+pensize(20)
+color('orange')
+left(90)
+circle(90,180)
+forward(90)
+circle(90,180)
+left(90)
+forward(65)
+ht()
+mainloop()
